@@ -1,0 +1,21 @@
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+
+# React
+node_modules/
+dist/
+
+# Environment files
+.env.*
+!.env.example
+
+# Editor/system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
